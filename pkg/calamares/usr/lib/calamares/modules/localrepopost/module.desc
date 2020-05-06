@@ -1,5 +1,0 @@
----
-type:       "job"
-name:       "localrepopost"
-interface:  "python"
-script:     "main.py"

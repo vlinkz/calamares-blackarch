@@ -1,7 +1,0 @@
----
-type:       "job"
-name:       "hwclock"
-interface:  "python"
-requires:   []
-script:     "main.py"
-noconfig:   true
